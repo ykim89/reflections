@@ -1,0 +1,14 @@
+Q1: I am not quiet sure how reflections help learning at this point.
+
+Q2: I guess you would know better of what kind of mistakes are made often.
+
+Q3: pros, it would be clear on what you have changed and wanted to be title of it.
+cons, maybe you could have missed out some changes you made or sometime to forget to commit after making changes so eventually you might missout.
+
+Q4: Google doc is mostly used to be used by multiple users where coding is more to individual work.
+
+Q5: By using git diff and git log we can easily check what has been modified and compare.
+
+Q6: As I can always go back to codes where the changes were made whenever bugs occurs I can figure out where it is comming from.
+
+Q7: I just have used it to open this by using subl reflections
