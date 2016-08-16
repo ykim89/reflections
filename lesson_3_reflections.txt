@@ -8,3 +8,6 @@ A: forks is used in github to copy someoneelse's project to your repository. Clo
 
 Q4: What is the benefit of having a copy of the last known state of the remote stored locally? 
 A:So whever there is a problem in Server drive the local drive would be a saver. 
+
+Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I guess the best way is to using Android Studio or notpadd I really dont have an idea since I am yet to practice Git into real problems. 
