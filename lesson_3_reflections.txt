@@ -5,3 +5,6 @@ A: Becasue you dont know when you want to make changes.
 
 Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: forks is used in github to copy someoneelse's project to your repository. Clone is used locally on your computer. Branch is used both with similar meanings.
+
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally? 
+A:So whever there is a problem in Server drive the local drive would be a saver. 
