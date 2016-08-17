@@ -11,3 +11,6 @@ A:So whever there is a problem in Server drive the local drive would be a saver.
 
 Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I guess the best way is to using Android Studio or notpadd I really dont have an idea since I am yet to practice Git into real problems. 
+
+Q6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: WHen I want to work on a sepreate project.
